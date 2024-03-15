@@ -1,4 +1,4 @@
-# P Book Data Scraper
+# Book Data Scraper
 
 This project is designed to scrape book data from [Books to Scrape](http://books.toscrape.com) across all 50 pages of the website. It extracts book attributes such as name, price, availability, and ratings, and then stores this data in a postgres database. 
 
@@ -15,7 +15,7 @@ Follow these steps to set up and run the project:
    
     Clone the project to your local machine:https://github.com/thirumeniram/TailNode_Assignment__Book_Scraper.git
   
-2. cd TailNode_Assignment_part_A_User_DataColleto
+2. cd TailNode_Assignment_Part_B_Book_Scraper
 
 3. Create and activate a virtual environment:
    - For Windows:
