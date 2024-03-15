@@ -13,7 +13,7 @@ This project is designed to scrape book data from [Books to Scrape](http://books
   
 - The database schema includes tables for books, capturing attributes like name, price, availability, and ratings.
 
-Below are screenshots from the ElephantSQL database interface showing examples of the stored data:
+
 
 book data:
 
