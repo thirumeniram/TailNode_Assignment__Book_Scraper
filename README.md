@@ -7,6 +7,11 @@ This project is designed to scrape book data from [Books to Scrape](http://books
 - Scraped book attributes: name, price, availability, and ratings from the website.
 - Stored the scraped data in a postgres database.
 
+## Tech Stack 
+
+- **Python**: 
+- **PostgreSQL**
+
 ## Data Stored in ElephantSQL
 
 - This section show how the scraped book data is organized and stored within the ElephantSQL database.
