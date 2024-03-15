@@ -9,7 +9,7 @@ This project is designed to scrape book data from [Books to Scrape](http://books
 
 ## Data Stored in ElephantSQL
 
-This section provides a glimpse into how the scraped book data is organized and stored within the ElephantSQL database. The database schema includes tables for books, capturing attributes like name, price, availability, and ratings.
+This section show how the scraped book data is organized and stored within the ElephantSQL database. The database schema includes tables for books, capturing attributes like name, price, availability, and ratings.
 
 Below are screenshots from the ElephantSQL database interface showing examples of the stored data:
 
