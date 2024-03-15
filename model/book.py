@@ -1,4 +1,3 @@
-# model/books.py
 import psycopg2
 from config.postgres import DATABASE_URL
 

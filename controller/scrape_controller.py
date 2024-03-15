@@ -1,4 +1,3 @@
-# controller/scrape_controller.py
 import requests
 from bs4 import BeautifulSoup
 from psycopg2.extras import execute_values
